@@ -23,9 +23,9 @@ var init = function () {
   ctx = document.getElementsByTagName("canvas")[0].getContext("2d");
   //uygulamada kullanılacak resimlerin oluşturulması
   var imgGrass = new Image();
-  imgGrass.src = "grass.jpg";
+  imgGrass.src = "images/grass.jpg";
   var imgMine = new Image();
-  imgMine.src = "mine.png";
+  imgMine.src = "images/mine.png";
   cBuffer = document.createElement("canvas");
   document.getElementById("txt").value = 0;
   cBuffer.id = "buffer";
