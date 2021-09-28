@@ -1,3 +1,5 @@
+# Minesweeper
+
 This is a simple minesweeper game.
 
 ## How does it work?
